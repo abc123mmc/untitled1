@@ -307,7 +307,7 @@ def panduan(hp,Config):
                     if kd not in hp[i]['快递']:
                         zdsh['改快递'][k[kd]].append(i)
                         with open("触发日志.txt",'a') as f:f.write('订单%s符合条件%s改快递为[%s]\n'%(i,i1,kd))
-                        break
+                    break
 
             #筛选改赠品  
             for i11 in gzp:#i1一行
