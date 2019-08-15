@@ -273,9 +273,8 @@ def panduan(hp,Config):
 
             #判断人工处理2
             r=hp[i]['客服备注'].split('┋')
-            kdlx1=''
             kdlx1='|'.join([k1 for k1 in k])
-            if len([i7 for i7 in r if  not re.findall(kdlx1+'长度[:：]|改地址[:：]',i7)])>1:
+            if len([i7 for i7 in r if  not re.findall(kdlx1+'|长度[:：]|改地址[:：]',i7)])>1:
                 panduan_rg=True
                 with open("触发日志.txt",'a') as f:f.write('订单%s备注含有需要人工处理的内容\n'% i)
 
@@ -362,7 +361,7 @@ if __name__ == '__main__':
     pass
     hp=ddsp()
     Config=readConfigure()#获取配置内容
-    b,c,d=panduan(hp,Config)
+    #b,c,d=panduan(hp,Config)
 
 
 '''
