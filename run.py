@@ -187,7 +187,7 @@ def cxpanduan():#判断查询
 def get_danhao():
     '''选择一小时前的'''
     t=time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time()-3600))
-    b=cxdd(i=['',t])
+    b=cxdd(i=['',''])
     b=[i.split('\t') for i in b.split('\r\n校验')]
     c=[]
     for i in b:

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-import re,time,xlrd
+import re,time,xlrd,random
 import pyautogui#模拟鼠标键盘操作
 import pyperclip#剪切板操作
 import traceback#用于错误处理
@@ -273,8 +273,8 @@ def panduan(hp,Config):
 
             #判断人工处理2
             r=hp[i]['客服备注'].split('┋')
-            kdlx1='|'.join([k1 for k1 in k])
-            if len([i7 for i7 in r if  not re.findall(kdlx1+'|长度[:：]|改地址[:：]',i7)])>1:
+            #kdlx1='|'.join([k1 for k1 in k]) #百世快递|顺丰|中通快递拉杆箱|中通速递|中国邮政-快递包裹|申通快递|圆通速递
+            if len([i7 for i7 in r if  not re.findall('快递[:：]|长度[:：]|改地址[:：]',i7)])>1:
                 panduan_rg=True
                 with open("触发日志.txt",'a') as f:f.write('订单%s备注含有需要人工处理的内容\n'% i)
 
@@ -301,8 +301,15 @@ def panduan(hp,Config):
                         break
                 if pan1:
                     if '客服备注指定' not in i11['使用快递']:
-                        kd=i11['使用快递']
-                    else:kd=re.findall(kdlx1,hp[i]['客服备注'])[-1]
+                        kd=i11['使用快递'].split('|')
+                        kd=random.choice(kd)
+                    else:
+                        kd=re.findall('快递[:：](.*?)┋',hp[i]['客服备注'])[-1]#中通
+                        kd=[i for i in k if kd in i]#['中通快递拉杆箱', '中通速递']
+                        if len(kd)!=1:
+                            panduan_rg=True
+                            break
+                        else:kd=kd[0]
                     if kd not in hp[i]['快递']:
                         zdsh['改快递'][k[kd]].append(i)
                         with open("触发日志.txt",'a') as f:f.write('订单%s符合条件%s改快递为[%s]\n'%(i,i1,kd))
@@ -361,7 +368,7 @@ if __name__ == '__main__':
     pass
     hp=ddsp()
     Config=readConfigure()#获取配置内容
-    #b,c,d=panduan(hp,Config)
+    b,c,d=panduan(hp,Config)
 
 
 '''
@@ -371,7 +378,5 @@ def xgma(i,n,h=1):#西格玛之python实现
         zhi+=j*h
     return zhi
 
-
 '''
-
 
