@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a70e1f0-8706-4d8c-ae29-576fc1e3280a" name="Default Changelist" comment="pycharm" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:abc123mmc/untitled.git" />
+      </set>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectId" id="1WEj3mSQdYVB7JVWdHIZddMoN5Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled" />
+      <recent name="C:\Users\Administrator\PycharmProjects\untitled\自动审核执行文件" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\PycharmProjects\untitled\setting.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.get_data" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.setting" />
+      <item itemvalue="Python.get_config" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.get_data" />
+        <item itemvalue="Python.get_config" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a70e1f0-8706-4d8c-ae29-576fc1e3280a" name="Default Changelist" comment="" />
+      <created>1578721452192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578721452192</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pycharm">
+      <created>1590897324867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590897324867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pycharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="pycharm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="27" key="CommitChangelistDialog2" timestamp="1590897673881">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="371" y="27" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1590897673881" />
+    <state x="583" y="324" key="Github.ShareDialog" timestamp="1590898332137">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="583" y="324" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1590898332137" />
+    <state width="1164" height="126" key="GridCell.Tab.0.bottom" timestamp="1590898255456">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1164" height="126" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1590898255456" />
+    <state width="1164" height="126" key="GridCell.Tab.0.center" timestamp="1590898255456">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1164" height="126" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1590898255456" />
+    <state width="1164" height="126" key="GridCell.Tab.0.left" timestamp="1590898255456">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1164" height="126" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1590898255456" />
+    <state width="1164" height="126" key="GridCell.Tab.0.right" timestamp="1590898255456">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1164" height="126" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1590898255456" />
+    <state width="980" height="223" key="GridCell.Tab.1.bottom" timestamp="1590813922627">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="980" height="223" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1590813922627" />
+    <state width="980" height="223" key="GridCell.Tab.1.center" timestamp="1590813922627">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="980" height="223" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1590813922627" />
+    <state width="980" height="223" key="GridCell.Tab.1.left" timestamp="1590813922627">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="980" height="223" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1590813922627" />
+    <state width="980" height="223" key="GridCell.Tab.1.right" timestamp="1590813922627">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="980" height="223" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1590813922627" />
+    <state x="428" y="111" key="SettingsEditor" timestamp="1590888564769">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="428" y="111" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1590888564769" />
+    <state x="312" y="165" key="Vcs.Push.Dialog.v2" timestamp="1590897493179">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="165" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1590897493179" />
+    <state x="522" y="147" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1590732754208">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="522" y="147" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1440.860@0.0.1440.860" timestamp="1590732754208" />
+    <state x="547" y="278" key="com.intellij.ide.util.TipDialog" timestamp="1590884031068">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="547" y="278" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1590884031068" />
+    <state x="514" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590898246572">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="514" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.860@0.0.1440.860" timestamp="1590898246572" />
+    <state x="556" y="85" width="626" height="735" key="find.popup" timestamp="1590801019564">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="556" y="85" width="626" height="735" key="find.popup/0.0.1440.860@0.0.1440.860" timestamp="1590801019564" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/get_data.py</url>
+          <line>371</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/get_data.py</url>
+          <line>284</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/get_data.py</url>
+          <line>263</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint type="python-line" />
+      </breakpoints-defaults>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
