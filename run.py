@@ -68,7 +68,9 @@ def go_go():
             Fun.cxpanduan(setting.jia_zz, setting.quan_pt)
             Fun.quan_xuan(zb, setting.jia_zz, setting.quan_pt)
             Fun.shenghe(zb)
-            TxtWrite.write_in_txt(setting.zdsh_f, f'{ptdh01}\n\n')
+            t=time.localtime()
+            TxtWrite.write_in_txt(setting.zdsh_f,
+                                  f'{t[0]}-{t[1]}-{t[2]} {t[3]}:{t[4]}:{5} >>> {ptdh01}\n\n')
     Fun.cxdd(zb,'所有获取到的订单审核完成*******')
 
 if __name__ == '__main__':
