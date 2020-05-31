@@ -1,0 +1,16 @@
+quan_pt = 'pm001.jpg'#全屏图
+ddsfcz='./图片/订单是否存在.jpg'
+jia_zz='./图片/加载中.jpg'   #加载中
+ddclzx=r'布局EXCEl\订单布局.xlsx' #订单处理中心
+spxx=r'布局EXCEl\商品信息布局.xlsx' #商品信息
+peizhi_e=r'自动审核执行文件/快递配置.xlsx'  #快递配置
+diqu_e=r'地区.xlsx'   #地区
+ddzds=['客服备注','订单买家留言','网店名称','仓库名称','省份','城市','地区','地址','快递公司','异常原因','订单标签','平台订单','订单类型']#需要的订单字段
+spzds=['商品编码', '商品类型', '品名', '数量', '平台规格', '商品标题']  #需要的商品字段
+cfrz="触发日志.txt"
+gdz_f="改地址.txt"
+gkd_f="改快递.txt"
+gzp_f="改赠品.txt"
+gbq_f="改标签.txt"
+zdsh_f="自动审核.txt"
+error_info='error_info'
